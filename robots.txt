@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://simpigne.github.io/sitemap.html.gz
+Sitemap: https://simpigne.github.io/app/sitemap.html.gz
+Sitemap: https://simpigne.github.io/assets/sitemap.html.gz
+Sitemap: https://simpigne.github.io/css/sitemap.html.gz
+Sitemap: https://simpigne.github.io/includes/sitemap.html.gz
+Sitemap: https://simpigne.github.io/item/sitemap.html.gz
+Sitemap: https://simpigne.github.io/src/sitemap.html.gz
